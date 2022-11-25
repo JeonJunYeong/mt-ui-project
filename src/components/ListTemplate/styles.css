@@ -23,7 +23,8 @@
 
 .listSubTitleText{
     margin:3px;
-    font-weight: bold;
+    line-height: 4;
+    /*font-weight: bold;*/
 }
 
 .listSubTitleText.positive{
